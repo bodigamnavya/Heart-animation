@@ -1,4 +1,4 @@
-##HEART ANIMATION
+## HEART ANIMATION
 -beautiful heart animation
 ## using
 -index.html
