@@ -1,6 +1,8 @@
 ## HEART ANIMATION
--beautiful heart animation
-## using
--index.html
--scrip.js
--style.css
+-beautiful heart animation created by using HTML , CSS , JAVAScrip.
+## Technogogies used
+-HTML
+-CSS
+-JAVAScript
+## Output
+
